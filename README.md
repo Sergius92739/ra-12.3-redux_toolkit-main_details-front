@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/bfppcc579jecte8m/branch/main?svg=true)](https://ci.appveyor.com/project/Sergius92739/ra-12-3-redux-toolkit-main-details-front/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/bfppcc579jecte8m/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ra-12-3-redux-toolkit-main-details-front/branch/master)
 
 # Список и детали
 
