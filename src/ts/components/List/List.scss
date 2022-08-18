@@ -1,0 +1,55 @@
+.app__table {
+  margin-top: 1em;
+}
+
+.table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: 2px solid #000;
+  font-size: 1.2rem;
+}
+
+thead th:nth-child(1),
+td:nth-child(1),
+thead th:nth-child(2),
+td:nth-child(2),
+thead th:nth-child(3),
+td:nth-child(3) {
+  padding: .7em;
+}
+
+td:nth-child(1) {
+  cursor: pointer;
+}
+
+thead th:nth-child(1),
+td:nth-child(1) {
+  width: 60%;
+}
+
+thead th:nth-child(2),
+td:nth-child(2) {
+  width: 20%;
+  text-align: center;
+}
+
+thead th:nth-child(3),
+td:nth-child(3) {
+  width: 20%;
+  text-align: center;
+}
+
+th, td {
+  border: 1px solid #000;
+}
+
+.icon-delete,
+.icon-edit {
+  font-size: 1.4rem;
+}
+
+.icon-delete {
+  display: inline-block;
+  margin-left: 2em;
+}
