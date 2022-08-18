@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ra-12.3-redux_toolkit-main_details-front/static/css/main.4cd718a0.css",
+    "main.js": "/ra-12.3-redux_toolkit-main_details-front/static/js/main.08769d94.js",
+    "static/js/787.5f7cab2a.chunk.js": "/ra-12.3-redux_toolkit-main_details-front/static/js/787.5f7cab2a.chunk.js",
+    "static/media/Roboto-Bold.svg": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Bold.541cb3422a94c6b7e915.svg",
+    "static/media/Roboto-Medium.svg": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Medium.8c796214ef31c8ed26f7.svg",
+    "static/media/Roboto-Black.svg": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Black.249fc560a15897555e15.svg",
+    "static/media/Roboto-Regular.svg": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Regular.527dfaa48fd1b09fffcf.svg",
+    "static/media/Roboto-Medium.eot": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Medium.95a5d9131d3469c3ce5e.eot",
+    "static/media/Roboto-Medium.ttf": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
+    "static/media/Roboto-Regular.eot": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Regular.ffdb6afaa75355e57a82.eot",
+    "static/media/Roboto-Black.eot": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Black.70bc7699658302342e32.eot",
+    "static/media/Roboto-Regular.ttf": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/Roboto-Black.ttf": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Black.2a4285847db4a9acb97f.ttf",
+    "static/media/Roboto-Bold.eot": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Bold.57cefa6ff8c0ca7a891f.eot",
+    "static/media/Roboto-Bold.ttf": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "static/media/Roboto-Medium.woff": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Medium.d7b36842eec814ca96c2.woff",
+    "static/media/Roboto-Bold.woff": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Bold.ad72f24fecee81055b62.woff",
+    "static/media/Roboto-Regular.woff": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Regular.5de7b2aa0c98ccc93fc6.woff",
+    "static/media/Roboto-Black.woff": "/ra-12.3-redux_toolkit-main_details-front/static/media/Roboto-Black.8864e7ac032ef057bbf8.woff",
+    "static/media/icomoon.eot?bqe4pp": "/ra-12.3-redux_toolkit-main_details-front/static/media/icomoon.6b71ccb93bbb241c334b.eot",
+    "static/media/icomoon.woff?bqe4pp": "/ra-12.3-redux_toolkit-main_details-front/static/media/icomoon.9f54c46cb4f9639cb040.woff",
+    "static/media/icomoon.ttf?bqe4pp": "/ra-12.3-redux_toolkit-main_details-front/static/media/icomoon.134a0b6d2066a6b30651.ttf",
+    "static/media/icomoon.svg?bqe4pp": "/ra-12.3-redux_toolkit-main_details-front/static/media/icomoon.b2f9eea1da8f679ae025.svg",
+    "index.html": "/ra-12.3-redux_toolkit-main_details-front/index.html",
+    "main.4cd718a0.css.map": "/ra-12.3-redux_toolkit-main_details-front/static/css/main.4cd718a0.css.map",
+    "main.08769d94.js.map": "/ra-12.3-redux_toolkit-main_details-front/static/js/main.08769d94.js.map",
+    "787.5f7cab2a.chunk.js.map": "/ra-12.3-redux_toolkit-main_details-front/static/js/787.5f7cab2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cd718a0.css",
+    "static/js/main.08769d94.js"
+  ]
+}
